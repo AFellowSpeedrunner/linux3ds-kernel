@@ -9,3 +9,6 @@ Then, place your rootfs.cpio.gz image you got from the Buildroot3DS build proces
 After that, run './make_3ds.sh' and hold enter until you see compiler text.
 
 Literally, I am not kidding. Hold that enter key down. It will still work with you just holding enter.
+
+
+linux3ds-kernel is based off the ["linux"](https://github.com/linux-3ds/linux) repository from the ["Linux for 3DS" team](https://github.com/linux-3ds) and the [original linux](https://github.com/torvalds/linux) repository.
